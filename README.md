@@ -11,7 +11,7 @@ Ressourcen: [TensorFlow Playground](https://playground.tensorflow.org/#activatio
 **Arbeitsphase 2**  
 *Arbeitsphase in Python*  
 Arbeitsblatt: [A2](https://github.com/Tarn017/AI-Lab/blob/main/Arbeitsblatt%202.pdf)  
-Ressourcen: [Euer erstes NN](https://github.com/Tarn017/Object-Classification-using-ESP-Cam)  
+Ressourcen: [Euer erstes NN](https://github.com/Tarn017/Simple-NN)  
 
 **Arbeitsphase 3**  
 *Arbeitsphase in Python*  
